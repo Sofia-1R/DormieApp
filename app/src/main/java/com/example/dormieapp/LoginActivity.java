@@ -22,6 +22,7 @@ public class LoginActivity extends AppCompatActivity {
     private Button btnLogin;
     private Button btnSign;
     //replace goMainActivity with next activity that user will see
+    //currently cannot get app to run
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
